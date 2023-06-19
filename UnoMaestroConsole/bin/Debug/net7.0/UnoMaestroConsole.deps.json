@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UnoMaestroConsole/1.0.0": {
+        "dependencies": {
+          "UnoMaestroLib": "1.0.0"
+        },
+        "runtime": {
+          "UnoMaestroConsole.dll": {}
+        }
+      },
+      "UnoMaestroLib/1.0.0": {
+        "runtime": {
+          "UnoMaestroLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnoMaestroConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnoMaestroLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

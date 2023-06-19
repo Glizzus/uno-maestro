@@ -1,0 +1,12 @@
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\obj\Debug\net7.0\UnoMaestroLib.csproj.AssemblyReference.cache
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\obj\Debug\net7.0\UnoMaestroLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\obj\Debug\net7.0\UnoMaestroLib.AssemblyInfoInputs.cache
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\obj\Debug\net7.0\UnoMaestroLib.AssemblyInfo.cs
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\obj\Debug\net7.0\UnoMaestroLib.csproj.CoreCompileInputs.cache
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\bin\Debug\net7.0\UnoMaestroLib.deps.json
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\bin\Debug\net7.0\UnoMaestroLib.dll
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\bin\Debug\net7.0\UnoMaestroLib.pdb
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\obj\Debug\net7.0\UnoMaestroLib.dll
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\obj\Debug\net7.0\refint\UnoMaestroLib.dll
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\obj\Debug\net7.0\UnoMaestroLib.pdb
+C:\Users\Glizzus\Projects\UnoMaestro\UnoMaestroLib\obj\Debug\net7.0\ref\UnoMaestroLib.dll
